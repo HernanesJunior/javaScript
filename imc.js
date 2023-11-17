@@ -1,4 +1,4 @@
-#const altura = 1.74;
+const altura = 1.74;
 const peso = 50;
 
 const imc = peso / Math.pow(altura,2);
